@@ -1,4 +1,7 @@
-Hola. Me llamo Evaristo Rojas y dirijo al equipo de [Ciencia de Datos](https://islasgeci.github.io)
-en [Conservación de Islas](https://islas.org.mx). Soy matemático y oceanólogo, y me gusta correr,
-programar y construir juguetes. Vivo en Ensenada, Mexico, con mi
-[esposa](http://mactavishediting.com/) e hijos.
+Hi! 👋
+
+My name is Evaristo Rojas. I lead the [Data Science](https://islasgeci.github.io)
+[team](https://github.com/orgs/IslasGECI/people) at [Conservación de Islas](https://islas.org.mx).
+I'm a mathematician with a background in oceanography, and I like running, programming, and building
+toys for my children. I live in Ensenada, Mexico, with my [wife](http://mactavishediting.com/),
+children, and cat.
