@@ -4,4 +4,4 @@ I'm a mathematician with a background in oceanography, and I like running, progr
 toys for my children. I live in Ensenada 🇲🇽 with my [wife](http://mactavishediting.com/),
 children, and cat.
 
-![codewars_badge](https://www.codewars.com/users/evaristor/badges/micro)
+[![codewars_badge](https://www.codewars.com/users/evaristor/badges/micro)](https://www.codewars.com/users/evaristor)
